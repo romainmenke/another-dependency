@@ -1,3 +1,3 @@
 export function PrintHello() {
-	console.log('hello world - v0.1.1"')
+	console.log('hello world - v0.1.2"')
 }
