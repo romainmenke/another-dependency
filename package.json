@@ -1,6 +1,6 @@
 {
   "name": "another-dependency",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "another dependency",
   "main": "hello.js",
   "type": "module",
